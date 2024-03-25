@@ -87,6 +87,17 @@
     "drmScheme": "",
     "drmLicense": ""
   },
+ {
+    "name": "ZooM",
+    "link": "https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8",
+    "logo": "https://i.imgur.com/grthh0o.png",
+    "origin": "https://bldcmprod-cdn.toffeelive.com",
+    "referrer": "kamal",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1711476121:KeyName=prod_linear:Signature=v9HyL2pxmLCPbt3HvXaNtP3NdPZN03dxPqrzkAC2R01gb0o8tYfYl-CYKwhvMh21d0bbgPKiaK6r0qWF7BxyAQ",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
   {
     "name": "T-SPORTS",
     "link": "http://xtv.ooo:8080/T4S00515/820172/167590",
