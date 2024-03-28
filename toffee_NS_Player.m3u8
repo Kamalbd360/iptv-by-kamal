@@ -21,6 +21,17 @@
     "drmScheme": "",
     "drmLicense": ""
   },
+ {
+    "name": "BONGO VIP",
+    "link": "https://vod.bongobd.com/vod/vod/919f93a7400e4149a70d204beb589074/c/4/c43bd13a9f0c4771a2fe783cca23a73e/c43bd13a9f0c4771a2fe783cca23a73e_x264_720p_1950k.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/2889/logo/240x240/mobile_logo_211907001709470250.png",
+    "origin": "https://mprod-cdn.toffeelive.com",
+    "referrer": "",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1711353799:KeyName=prod_live_events:Signature=X_8hSme8S981r8OUGEqVWmuxbRumDB-_JQxzdwOJfT-ZHKAnfaO9aFrt5PHrHzNJEJ7ajYbKz2kJ-7qKEGusBw",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
   {
     "name": "NZ va ENG",
     "link": "https://mprod-cdn.toffeelive.com/live/match-1/index.m3u8",
